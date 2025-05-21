@@ -14,15 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:126ade,100:aaa7a7&height=120&text=kang01hyoun's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    </div>
-    
+<h1 align="center">Hi 👋 I'm kang01hyoun</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=study-hard
+  ;C%2FC%2B%2B+enthusiast;be a good developer;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+---
+
+- 🔭 College Student  
+- 📚 Studying MATH, C, C++  
+- ⚙️ Languages: C, C++  
+- 🎯 Focused on: performance, correctness, and elegance  
+
+---
+
+### 🛠 Tech Stacks
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeon-kang&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeon-kang&theme=radical" height="180px"/>
+</p>
+
+---
+
+### 🔗 Contact
+- Email: gus7618@gmail.com  
+- Blog: NO
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeon-kang&theme=radical" />
+</p>
+
