@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm kang01hyoun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=study-hard
-  ;C%2FC%2B%2B+enthusiast;be a good developer;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=STUDY-HARD;C%2FC%2B%2B+enthusiast;BE+A+GOOD+DEVELOPER;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Tech Stacks
+### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
@@ -46,12 +45,13 @@ Here are some ideas to get you started:
 ---
 
 ### 🔗 Contact
-- Email: gus7618@gmail.com  
-- Blog: NO
+- Email: you@example.com  
+- Blog: [https://yourblog.site](https://yourblog.site)
 
 ---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeon-kang&theme=radical" />
 </p>
+
 
