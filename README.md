@@ -27,13 +27,4 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           </div>
     </div>
-    
-- Blog: [https://yourblog.site](https://yourblog.site)
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeon-kang&theme=radical" />
-</p>
-
 
